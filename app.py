@@ -66,7 +66,7 @@ def handle_userinput(user_question):
 
 def main():
     load_dotenv()
-    st.set_page_config(page_title="Research Assistant",
+    st.set_page_config(page_title="Research Codey AI",
                        page_icon=":books:")
     st.markdown(css, unsafe_allow_html=True)
     st.write(css, unsafe_allow_html=True)
@@ -76,7 +76,7 @@ def main():
     if "chat_history" not in st.session_state:
         st.session_state.chat_history = None
 
-    st.header("Chat with multiple PDFs :books:")
+    st.header("Research Codey AI :books:")
     user_question = st.text_input("Ask a question about your documents:")
     if user_question:
         handle_userinput(user_question)
