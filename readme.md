@@ -1,11 +1,8 @@
+
 🏆 Hackathon Winner 🏆
 
-We are proud to announce that this project won the Stable Code  Hackathon   [StableCode 24-Hour Hackathon](https://lablab.ai/event/stablecode-24-hours-hackathon)
+We are proud to announce that this project won the Stable Code  Hackathon   [Research Codey AI](https://lablab.ai/event/stablecode-24-hours-hackathon)
 
-
-hosted by Lablab.ai
-
-<img width="955" alt="stable" src="https://github.com/inshayaqoob/StableCode/assets/90973030/1aea70a0-eec4-4c33-9508-a3297b812be1">
 
 
 
