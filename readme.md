@@ -4,6 +4,7 @@
 We are proud to announce that this project won the Stable Code  Hackathon   [Research Codey AI](https://lablab.ai/event/stablecode-24-hours-hackathon)
 
 
+<img width="955" alt="stable" src="https://github.com/inshayaqoob/StableCode/assets/90973030/da675f1a-431e-4655-9fb7-522656467724">
 
 
 ## How It Works
